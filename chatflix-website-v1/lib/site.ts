@@ -1,0 +1,1 @@
+export const site={name:"Chatflix",tagline:"Watch. Connect. Create.",url:process.env.NEXT_PUBLIC_SITE_URL||"http://localhost:3000",supportEmail:"YOUR-SUPPORT-EMAIL",description:"Chatflix is a social video platform where people watch, connect, create, discover AI tools, and explore creator products."};
